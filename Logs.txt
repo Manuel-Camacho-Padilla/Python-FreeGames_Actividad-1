@@ -1,47 +1,17 @@
-commit ac4b0eae2885743b1299da7cd25bf9c449e68380 (HEAD -> master, origin/master, origin/HEAD)
-Merge: f7c512d 29249b6
+commit a0c848b06133990482dc2699f0d4c2b854feff6c
 Author: Herr Turner <georgeeturnere@gmail.com>
-Date:   Wed May 5 13:20:38 2021 -0500
+Date:   Thu May 6 15:39:31 2021 -0500
 
-    Otra vez JT
+    Updated paint README
 
-commit 29249b6e0076f2e4e886d4a183d59f158940aa2f
-Merge: f6e292c 2e372fe
+commit 3518741d8942b6242978ad2b69bbd11a9c7767c6
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Thu May 6 12:55:41 2021 -0500
+
+    Added Color function
+
+commit 29e0cfd6ce442f03330723d4bb61d984a0ca92d5
 Author: manu <manu320camacho@gmail.com>
-Date:   Wed May 5 13:15:15 2021 -0500
+Date:   Thu May 6 12:17:02 2021 -0500
 
-    Merge branch 'master' of https://github.com/j-g-j/TC1001HerrCompDia2
-
-commit 2e372fee2838e5c0b3b1ff24a8e77e5dcd72851b
-Merge: b0f800c 3368d2e
-Author: RonaldoJ24 <ronaldo.jesus.alvarez@hotmail.com>
-Date:   Wed May 5 13:14:37 2021 -0500
-
-    A01424337 3
-
-commit f7c512d84bf0ba480112af36e0699c0859c40a9b
-Merge: 923a4c6 3368d2e
-Author: Herr Turner <georgeeturnere@gmail.com>
-Date:   Wed May 5 13:11:24 2021 -0500
-
-    Jorge Turner
-
-commit b0f800cc06dd479fcf9bc80cc2b0be4910f09372
-Merge: f0253e6 0894fcf
-Author: RonaldoJ24 <ronaldo.jesus.alvarez@hotmail.com>
-Date:   Wed May 5 13:11:08 2021 -0500
-
-    A01424337
-
-commit 3368d2e113caaaec0cac7de593a43abc36572ae4
-Merge: 18ff792 0894fcf
-Author: pablopomi1 <a01423181@itesm.mx>
-Date:   Wed May 5 13:09:13 2021 -0500
-
-    babushka, Pablo M.
-
-commit f0253e6f4baa0b14c4e3b71a623b45c63f56fa7d
-Author: RonaldoJ24 <ronaldo.jesus.alvarez@hotmail.com>
-Date:   Wed May 5 13:09:09 2021 -0500
-
-    A01424337
+    Added renctangle and triangle
